@@ -19,8 +19,6 @@ import (
 	"user-management-api/internal/repository"
 	"user-management-api/internal/service"
 	"user-management-api/pkg/logger"
-
-	_ "user-management-api/docs"
 )
 
 // @title User Management API
